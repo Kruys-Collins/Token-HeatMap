@@ -1,3 +1,4 @@
-*.env/ 
 token_heatmap/
+*.env/
+# Ignore virtual environment directories
 # Ignore environment variable files
